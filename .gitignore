@@ -1,0 +1,76 @@
+###
+# Unity folders and files
+###
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
+[Ll]ogs/
+Assets/AssetStoreTools*
+[Uu]nityPackageManager/
+project.json
+project.lock.json
+
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+.consulo/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.blend1
+*.pdb
+*.opendb
+*.VC.db
+.DS_Store
+.vs/
+
+###
+# Unity3D generated meta files
+###
+*.pidb.meta
+*.pdb.meta
+
+###
+# file on crash reports
+###
+sysinfo.txt
+
+###
+# OS generated
+###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+Corridor/Library/ShaderCache/
+Corridor/Library/metadata/
+
+###
+# Crashlytics generated file
+###
+Assets/StreamingAssets/crashlytics-build.properties
+
+###
+# FMOD
+###
+Assets/FMODStudioCache.asset
+Assets/StreamingAssets/*.bank
+fmod.log
+fmod_editor.log
